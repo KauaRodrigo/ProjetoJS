@@ -14,6 +14,6 @@ app.use('/users', UserRouter)
 app.use('/products', ProductRouter)
 
 app.listen(3000, () => {
-    console.log('is running')
+    console.log('is running fuck')
 })
 
